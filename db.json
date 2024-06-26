@@ -1,0 +1,252 @@
+{
+  "videos": [
+    {
+      "caption": "ozler",
+      "image": "https://th.bing.com/th/id/OIP.czAqYKgpIuCnhT9ohDMLjAHaEK?rs=1&pid=ImgDetMain",
+      "url": "https://www.youtube.com/embed/etR0eey9zWA",
+      "id": 1
+    },
+    {
+      "caption": "Odimaga",
+      "image": "https://static.moviecrow.com/gallery/20240223/226542-aavesham.jpg",
+      "url": "https://www.youtube.com/embed/HoYsa8-HcnM",
+      "id": 3
+    },
+    {
+      "caption": "Nenjin Ezhuth",
+      "image": "https://i.ytimg.com/vi/gSH9Hl6PxEQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/-zDgK4f6KUU",
+      "id": 4
+    },
+    {
+      "caption": "Chendumallika Poo",
+      "image": "https://e0.pxfuel.com/wallpapers/723/636/desktop-wallpaper-arya-2-allu-arjun-movie-stills.jpg",
+      "url": "https://www.youtube.com/embed/WrCc7E-GE9E",
+      "id": 6
+    },
+    {
+      "caption": "Arikil Pathiye ",
+      "image": "https://i.ytimg.com/vi/mLB5N6btrzM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/VNg556FUOUs",
+      "id": 7
+    },
+    {
+      "caption": "Thuli Thuli ",
+      "image": "https://i.ytimg.com/vi/oHMYfDhrWb8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/_iSmSub2p_g",
+      "id": 9
+    },
+    {
+      "caption": "Nee Manimukilaadakal",
+      "image": "https://i.ytimg.com/vi/kD3mDk8q17M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/kD3mDk8q17M",
+      "id": 11
+    },
+    {
+      "caption": "Suttum Vizhi ",
+      "image": "https://i.ytimg.com/vi/8e3DeXyhrgs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/RsAWIp4FFRg",
+      "id": 12
+    },
+    {
+      "caption": "Puthu Vellai Mazhai | Violin cover ",
+      "image": "https://i.ytimg.com/vi/AXBisGTLWow/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/AXBisGTLWow",
+      "id": 13
+    },
+    {
+      "caption": "Kangal Neeye ",
+      "image": "https://i.ytimg.com/vi/Q4PbZKkjj2A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/n6bIPWpQ6nY",
+      "id": 14
+    },
+    {
+      "caption": "Non Stop Love Mashup Love Songs",
+      "image": "https://i.ytimg.com/vi/DdywfYZC0Bc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/Bd8bpV2pxak",
+      "id": 15
+    },
+    {
+      "caption": "Tujh Mein Rab Dikhta Hai",
+      "image": "https://i.ytimg.com/vi/86WU4_ftWmY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/qoq8B8ThgEM",
+      "id": 16
+    },
+    {
+      "caption": "Sakhiyeee Video Song",
+      "image": "https://i.ytimg.com/vi/uOmDEK9i1nI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/uOmDEK9i1nI",
+      "id": 22
+    },
+    {
+      "caption": "SreeRagamo Lofi Flip ",
+      "image": "https://i.ytimg.com/vi/JweZbfz5rgg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/JweZbfz5rgg",
+      "id": 23
+    },
+    {
+      "caption": "Aru Paranju Myavo",
+      "image": "https://i.ytimg.com/vi/g_u5PJDCOT8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/ao39zp8ZdPQ",
+      "id": 24
+    },
+    {
+      "caption": "Sun Saathiya Maahiya",
+      "image": "https://i.ytimg.com/vi/5Iz-w48AL3c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/tnp8SRcXx-s",
+      "id": 25
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "Tamil Songs",
+      "allVideo": [
+        {
+          "caption": "Suttum Vizhi ",
+          "image": "https://i.ytimg.com/vi/8e3DeXyhrgs/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/RsAWIp4FFRg",
+          "id": 12
+        }
+      ],
+      "id": 2
+    },
+    {
+      "CategoryName": "malayalam songs",
+      "allVideo": [
+        {
+          "caption": "Odimaga",
+          "image": "https://static.moviecrow.com/gallery/20240223/226542-aavesham.jpg",
+          "url": "https://www.youtube.com/embed/HoYsa8-HcnM",
+          "id": 3
+        },
+        {
+          "caption": "Arikil Pathiye ",
+          "image": "https://i.ytimg.com/vi/mLB5N6btrzM/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/VNg556FUOUs",
+          "id": 7
+        }
+      ],
+      "id": 3
+    },
+    {
+      "CategoryName": "Hindi songs",
+      "allVideo": [
+        {
+          "caption": "Sun Saathiya Maahiya",
+          "image": "https://i.ytimg.com/vi/5Iz-w48AL3c/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/tnp8SRcXx-s",
+          "id": 8
+        }
+      ],
+      "id": 4
+    },
+    {
+      "CategoryName": "Romantic songs",
+      "allVideo": [
+        {
+          "caption": "Tujh Mein Rab Dikhta Hai",
+          "image": "https://i.ytimg.com/vi/86WU4_ftWmY/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/qoq8B8ThgEM",
+          "id": 16
+        }
+      ],
+      "id": 7
+    },
+    {
+      "CategoryName": "Lofi songs",
+      "allVideo": [
+        {
+          "caption": "SreeRagamo Lofi Flip ",
+          "image": "https://i.ytimg.com/vi/JweZbfz5rgg/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/JweZbfz5rgg",
+          "id": 23
+        }
+      ],
+      "id": 8
+    },
+    {
+      "CategoryName": "Sad songs",
+      "allVideo": [
+        {
+          "caption": "Kangal Neeye ",
+          "image": "https://i.ytimg.com/vi/Q4PbZKkjj2A/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/n6bIPWpQ6nY",
+          "id": 14
+        }
+      ],
+      "id": 11
+    },
+    {
+      "CategoryName": "Mash upsongs",
+      "allVideo": [
+        {
+          "caption": "Non Stop Love Mashup Love Songs",
+          "image": "https://i.ytimg.com/vi/DdywfYZC0Bc/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/Bd8bpV2pxak",
+          "id": 15
+        }
+      ],
+      "id": 12
+    },
+    {
+      "CategoryName": "Kids songs",
+      "allVideo": [],
+      "id": 13
+    },
+    {
+      "CategoryName": "Cover songs",
+      "allVideo": [],
+      "id": 15
+    }
+  ],
+  "history": [
+    {
+      "caption": "Sun Saathiya Maahiya",
+      "url": "https://www.youtube.com/embed/tnp8SRcXx-s",
+      "timeStamp": "20/06/2024, 11:06:23",
+      "id": 1
+    },
+    {
+      "caption": "Nee Manimukilaadakal",
+      "url": "https://www.youtube.com/embed/kD3mDk8q17M",
+      "timeStamp": "20/06/2024, 11:06:35",
+      "id": 2
+    },
+    {
+      "caption": "Puthu Vellai Mazhai | Violin cover ",
+      "url": "https://www.youtube.com/embed/AXBisGTLWow",
+      "timeStamp": "20/06/2024, 11:06:58",
+      "id": 3
+    },
+    {
+      "caption": "Aru Paranju Myavo",
+      "url": "https://www.youtube.com/embed/ao39zp8ZdPQ",
+      "timeStamp": "24/06/2024, 10:04:58",
+      "id": 4
+    },
+    {
+      "caption": "Aru Paranju Myavo",
+      "url": "https://www.youtube.com/embed/ao39zp8ZdPQ",
+      "timeStamp": "24/06/2024, 10:11:51",
+      "id": 5
+    },
+    {
+      "caption": "Non Stop Love Mashup Love Songs",
+      "url": "https://www.youtube.com/embed/Bd8bpV2pxak",
+      "timeStamp": "25/06/2024, 09:45:53",
+      "id": 6
+    },
+    {
+      "caption": "Thuli Thuli ",
+      "url": "https://www.youtube.com/embed/_iSmSub2p_g",
+      "timeStamp": "25/06/2024, 10:14:06",
+      "id": 7
+    },
+    {
+      "caption": "Odimaga",
+      "url": "https://www.youtube.com/embed/HoYsa8-HcnM",
+      "timeStamp": "26/06/2024, 19:57:25",
+      "id": 8
+    }
+  ]
+}
